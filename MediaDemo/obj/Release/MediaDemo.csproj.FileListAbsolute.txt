@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\测试\MediaDemo\bin\Release\MediaDemo.exe.config
+C:\Users\DELL\source\repos\测试\MediaDemo\bin\Release\MediaDemo.exe
+C:\Users\DELL\source\repos\测试\MediaDemo\bin\Release\MediaDemo.pdb
+C:\Users\DELL\source\repos\测试\MediaDemo\obj\Release\MediaDemo.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\测试\MediaDemo\obj\Release\MainWindow.g.cs
+C:\Users\DELL\source\repos\测试\MediaDemo\obj\Release\App.g.cs
+C:\Users\DELL\source\repos\测试\MediaDemo\obj\Release\MediaDemo_MarkupCompile.cache
+C:\Users\DELL\source\repos\测试\MediaDemo\obj\Release\MediaDemo_MarkupCompile.lref
+C:\Users\DELL\source\repos\测试\MediaDemo\obj\Release\MainWindow.baml
+C:\Users\DELL\source\repos\测试\MediaDemo\obj\Release\MediaDemo.g.resources
+C:\Users\DELL\source\repos\测试\MediaDemo\obj\Release\MediaDemo.Properties.Resources.resources
+C:\Users\DELL\source\repos\测试\MediaDemo\obj\Release\MediaDemo.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\测试\MediaDemo\obj\Release\MediaDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\MediaDemo\obj\Release\MediaDemo.exe
+C:\Users\DELL\source\repos\测试\MediaDemo\obj\Release\MediaDemo.pdb

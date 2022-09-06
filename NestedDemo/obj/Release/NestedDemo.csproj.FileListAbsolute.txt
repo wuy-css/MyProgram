@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\测试\NestedDemo\bin\Release\NestedDemo.exe.config
+C:\Users\DELL\source\repos\测试\NestedDemo\bin\Release\NestedDemo.exe
+C:\Users\DELL\source\repos\测试\NestedDemo\bin\Release\NestedDemo.pdb
+C:\Users\DELL\source\repos\测试\NestedDemo\obj\Release\NestedDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\NestedDemo\obj\Release\NestedDemo.exe
+C:\Users\DELL\source\repos\测试\NestedDemo\obj\Release\NestedDemo.pdb

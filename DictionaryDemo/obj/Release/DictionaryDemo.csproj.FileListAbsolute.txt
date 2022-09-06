@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\测试\DictionaryDemo\bin\Release\DictionaryDemo.exe.config
+C:\Users\DELL\source\repos\测试\DictionaryDemo\bin\Release\DictionaryDemo.exe
+C:\Users\DELL\source\repos\测试\DictionaryDemo\bin\Release\DictionaryDemo.pdb
+C:\Users\DELL\source\repos\测试\DictionaryDemo\obj\Release\DictionaryDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\DictionaryDemo\obj\Release\DictionaryDemo.exe
+C:\Users\DELL\source\repos\测试\DictionaryDemo\obj\Release\DictionaryDemo.pdb

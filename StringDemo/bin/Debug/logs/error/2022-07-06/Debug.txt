@@ -1,0 +1,3 @@
+2022-07-06 13:06:14.9677 | Debug | debug message 
+2022-07-06 13:45:49.2419 | Debug | debug message 
+2022-07-06 13:49:22.8120 | Debug | debug message 

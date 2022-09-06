@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\测试\StringDemo\bin\Release\NLog.config
+C:\Users\DELL\source\repos\测试\StringDemo\bin\Release\StringDemo.exe.config
+C:\Users\DELL\source\repos\测试\StringDemo\bin\Release\StringDemo.exe
+C:\Users\DELL\source\repos\测试\StringDemo\bin\Release\StringDemo.pdb
+C:\Users\DELL\source\repos\测试\StringDemo\bin\Release\NLog.dll
+C:\Users\DELL\source\repos\测试\StringDemo\bin\Release\NLog.xml
+C:\Users\DELL\source\repos\测试\StringDemo\obj\Release\StringDemo.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\测试\StringDemo\obj\Release\StringDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\StringDemo\obj\Release\StringDemo.csproj.CopyComplete
+C:\Users\DELL\source\repos\测试\StringDemo\obj\Release\StringDemo.exe
+C:\Users\DELL\source\repos\测试\StringDemo\obj\Release\StringDemo.pdb

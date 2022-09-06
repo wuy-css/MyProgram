@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\测试\ThreadingDemo\bin\Release\ThreadingDemo.exe.config
+C:\Users\DELL\source\repos\测试\ThreadingDemo\bin\Release\ThreadingDemo.exe
+C:\Users\DELL\source\repos\测试\ThreadingDemo\bin\Release\ThreadingDemo.pdb
+C:\Users\DELL\source\repos\测试\ThreadingDemo\obj\Release\ThreadingDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\ThreadingDemo\obj\Release\ThreadingDemo.exe
+C:\Users\DELL\source\repos\测试\ThreadingDemo\obj\Release\ThreadingDemo.pdb

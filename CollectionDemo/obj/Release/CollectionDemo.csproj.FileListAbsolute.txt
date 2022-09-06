@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\测试\CollectionDemo\bin\Release\CollectionDemo.exe.config
+C:\Users\DELL\source\repos\测试\CollectionDemo\bin\Release\CollectionDemo.exe
+C:\Users\DELL\source\repos\测试\CollectionDemo\bin\Release\CollectionDemo.pdb
+C:\Users\DELL\source\repos\测试\CollectionDemo\obj\Release\CollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\CollectionDemo\obj\Release\CollectionDemo.exe
+C:\Users\DELL\source\repos\测试\CollectionDemo\obj\Release\CollectionDemo.pdb

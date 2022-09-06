@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\测试\GenericDemo\bin\Release\GenericDemo.exe.config
+C:\Users\DELL\source\repos\测试\GenericDemo\bin\Release\GenericDemo.exe
+C:\Users\DELL\source\repos\测试\GenericDemo\bin\Release\GenericDemo.pdb
+C:\Users\DELL\source\repos\测试\GenericDemo\obj\Release\GenericDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\GenericDemo\obj\Release\GenericDemo.exe
+C:\Users\DELL\source\repos\测试\GenericDemo\obj\Release\GenericDemo.pdb

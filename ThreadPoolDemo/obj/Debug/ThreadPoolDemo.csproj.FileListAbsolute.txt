@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\测试\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.exe.config
+C:\Users\DELL\source\repos\测试\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.exe
+C:\Users\DELL\source\repos\测试\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.pdb
+C:\Users\DELL\source\repos\测试\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.exe
+C:\Users\DELL\source\repos\测试\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.pdb

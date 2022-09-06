@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\测试\EnumDemo\bin\Release\EnumDemo.exe.config
+C:\Users\DELL\source\repos\测试\EnumDemo\bin\Release\EnumDemo.exe
+C:\Users\DELL\source\repos\测试\EnumDemo\bin\Release\EnumDemo.pdb
+C:\Users\DELL\source\repos\测试\EnumDemo\obj\Release\EnumDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\EnumDemo\obj\Release\EnumDemo.exe
+C:\Users\DELL\source\repos\测试\EnumDemo\obj\Release\EnumDemo.pdb

@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\测试\StructDemo\bin\Release\StructDemo.exe.config
+C:\Users\DELL\source\repos\测试\StructDemo\bin\Release\StructDemo.exe
+C:\Users\DELL\source\repos\测试\StructDemo\bin\Release\StructDemo.pdb
+C:\Users\DELL\source\repos\测试\StructDemo\obj\Release\StructDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\StructDemo\obj\Release\StructDemo.exe
+C:\Users\DELL\source\repos\测试\StructDemo\obj\Release\StructDemo.pdb

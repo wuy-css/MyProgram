@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\测试\ArrayApp\bin\Debug\ArrayApp.exe.config
+C:\Users\DELL\source\repos\测试\ArrayApp\bin\Debug\ArrayApp.exe
+C:\Users\DELL\source\repos\测试\ArrayApp\bin\Debug\ArrayApp.pdb
+C:\Users\DELL\source\repos\测试\ArrayApp\obj\Debug\ArrayApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\ArrayApp\obj\Debug\ArrayApp.exe
+C:\Users\DELL\source\repos\测试\ArrayApp\obj\Debug\ArrayApp.pdb

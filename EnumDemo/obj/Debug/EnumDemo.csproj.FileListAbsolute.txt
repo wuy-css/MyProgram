@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\测试\EnumDemo\bin\Debug\EnumDemo.exe.config
+C:\Users\DELL\source\repos\测试\EnumDemo\bin\Debug\EnumDemo.exe
+C:\Users\DELL\source\repos\测试\EnumDemo\bin\Debug\EnumDemo.pdb
+C:\Users\DELL\source\repos\测试\EnumDemo\obj\Debug\EnumDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\EnumDemo\obj\Debug\EnumDemo.exe
+C:\Users\DELL\source\repos\测试\EnumDemo\obj\Debug\EnumDemo.pdb
+C:\Users\DELL\source\repos\测试\EnumDemo\obj\Debug\EnumDemo.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\测试\AttributeDemo\bin\Debug\AttributeDemo.exe.config
+C:\Users\DELL\source\repos\测试\AttributeDemo\bin\Debug\AttributeDemo.exe
+C:\Users\DELL\source\repos\测试\AttributeDemo\bin\Debug\AttributeDemo.pdb
+C:\Users\DELL\source\repos\测试\AttributeDemo\obj\Debug\AttributeDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\AttributeDemo\obj\Debug\AttributeDemo.exe
+C:\Users\DELL\source\repos\测试\AttributeDemo\obj\Debug\AttributeDemo.pdb
+C:\Users\DELL\source\repos\测试\AttributeDemo\obj\Debug\AttributeDemo.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\测试\MyProgram\AttributeDemo\obj\Debug\AttributeDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\MyProgram\AttributeDemo\bin\Debug\AttributeDemo.exe.config
+C:\Users\DELL\source\repos\测试\MyProgram\AttributeDemo\bin\Debug\AttributeDemo.exe
+C:\Users\DELL\source\repos\测试\MyProgram\AttributeDemo\bin\Debug\AttributeDemo.pdb
+C:\Users\DELL\source\repos\测试\MyProgram\AttributeDemo\obj\Debug\AttributeDemo.exe
+C:\Users\DELL\source\repos\测试\MyProgram\AttributeDemo\obj\Debug\AttributeDemo.pdb

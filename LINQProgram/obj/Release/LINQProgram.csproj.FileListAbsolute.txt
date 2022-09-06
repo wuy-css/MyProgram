@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\测试\LINQProgram\bin\Release\LINQProgram.exe.config
+C:\Users\DELL\source\repos\测试\LINQProgram\bin\Release\LINQProgram.exe
+C:\Users\DELL\source\repos\测试\LINQProgram\bin\Release\LINQProgram.pdb
+C:\Users\DELL\source\repos\测试\LINQProgram\obj\Release\LINQProgram.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\测试\LINQProgram\obj\Release\LINQProgram.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\LINQProgram\obj\Release\LINQProgram.exe
+C:\Users\DELL\source\repos\测试\LINQProgram\obj\Release\LINQProgram.pdb

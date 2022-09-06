@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\测试\PolymorphismDemo\bin\Release\PolymorphismDemo.exe.config
+C:\Users\DELL\source\repos\测试\PolymorphismDemo\bin\Release\PolymorphismDemo.exe
+C:\Users\DELL\source\repos\测试\PolymorphismDemo\bin\Release\PolymorphismDemo.pdb
+C:\Users\DELL\source\repos\测试\PolymorphismDemo\obj\Release\PolymorphismDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\PolymorphismDemo\obj\Release\PolymorphismDemo.exe
+C:\Users\DELL\source\repos\测试\PolymorphismDemo\obj\Release\PolymorphismDemo.pdb

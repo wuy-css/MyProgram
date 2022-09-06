@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\测试\PacketDemo\bin\Release\PacketDemo.exe.config
+C:\Users\DELL\source\repos\测试\PacketDemo\bin\Release\PacketDemo.exe
+C:\Users\DELL\source\repos\测试\PacketDemo\bin\Release\PacketDemo.pdb
+C:\Users\DELL\source\repos\测试\PacketDemo\obj\Release\PacketDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\PacketDemo\obj\Release\PacketDemo.exe
+C:\Users\DELL\source\repos\测试\PacketDemo\obj\Release\PacketDemo.pdb

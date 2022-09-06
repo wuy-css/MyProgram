@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\测试\DataTemlateDemo\bin\Release\DataTemlateDemo.exe.config
+C:\Users\DELL\source\repos\测试\DataTemlateDemo\bin\Release\DataTemlateDemo.exe
+C:\Users\DELL\source\repos\测试\DataTemlateDemo\bin\Release\DataTemlateDemo.pdb
+C:\Users\DELL\source\repos\测试\DataTemlateDemo\obj\Release\MainWindow.g.cs
+C:\Users\DELL\source\repos\测试\DataTemlateDemo\obj\Release\App.g.cs
+C:\Users\DELL\source\repos\测试\DataTemlateDemo\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\source\repos\测试\DataTemlateDemo\obj\Release\DataTemlateDemo_MarkupCompile.cache
+C:\Users\DELL\source\repos\测试\DataTemlateDemo\obj\Release\DataTemlateDemo_MarkupCompile.lref
+C:\Users\DELL\source\repos\测试\DataTemlateDemo\obj\Release\MainWindow.baml
+C:\Users\DELL\source\repos\测试\DataTemlateDemo\obj\Release\DataTemlateDemo.g.resources
+C:\Users\DELL\source\repos\测试\DataTemlateDemo\obj\Release\DataTemlateDemo.Properties.Resources.resources
+C:\Users\DELL\source\repos\测试\DataTemlateDemo\obj\Release\DataTemlateDemo.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\测试\DataTemlateDemo\obj\Release\DataTemlateDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\DataTemlateDemo\obj\Release\DataTemlateDemo.exe
+C:\Users\DELL\source\repos\测试\DataTemlateDemo\obj\Release\DataTemlateDemo.pdb
+C:\Users\DELL\source\repos\测试\DataTemlateDemo\obj\Release\DataTemlateDemo.csprojAssemblyReference.cache

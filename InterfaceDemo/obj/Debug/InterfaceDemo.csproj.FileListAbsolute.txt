@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\测试\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+C:\Users\DELL\source\repos\测试\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+C:\Users\DELL\source\repos\测试\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+C:\Users\DELL\source\repos\测试\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+C:\Users\DELL\source\repos\测试\InterfaceDemo\obj\Debug\InterfaceDemo.pdb

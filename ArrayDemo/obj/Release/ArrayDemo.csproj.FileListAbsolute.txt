@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\测试\ArrayDemo\bin\Release\ArrayDemo.exe.config
+C:\Users\DELL\source\repos\测试\ArrayDemo\bin\Release\ArrayDemo.exe
+C:\Users\DELL\source\repos\测试\ArrayDemo\bin\Release\ArrayDemo.pdb
+C:\Users\DELL\source\repos\测试\ArrayDemo\obj\Release\ArrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\ArrayDemo\obj\Release\ArrayDemo.exe
+C:\Users\DELL\source\repos\测试\ArrayDemo\obj\Release\ArrayDemo.pdb

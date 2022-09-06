@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\测试\RoutedEventDemo\bin\Release\RoutedEventDemo.exe.config
+C:\Users\DELL\source\repos\测试\RoutedEventDemo\bin\Release\RoutedEventDemo.exe
+C:\Users\DELL\source\repos\测试\RoutedEventDemo\bin\Release\RoutedEventDemo.pdb
+C:\Users\DELL\source\repos\测试\RoutedEventDemo\obj\Release\MainWindow.g.cs
+C:\Users\DELL\source\repos\测试\RoutedEventDemo\obj\Release\App.g.cs
+C:\Users\DELL\source\repos\测试\RoutedEventDemo\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\source\repos\测试\RoutedEventDemo\obj\Release\RoutedEventDemo_MarkupCompile.cache
+C:\Users\DELL\source\repos\测试\RoutedEventDemo\obj\Release\RoutedEventDemo_MarkupCompile.lref
+C:\Users\DELL\source\repos\测试\RoutedEventDemo\obj\Release\MainWindow.baml
+C:\Users\DELL\source\repos\测试\RoutedEventDemo\obj\Release\RoutedEventDemo.g.resources
+C:\Users\DELL\source\repos\测试\RoutedEventDemo\obj\Release\RoutedEventDemo.Properties.Resources.resources
+C:\Users\DELL\source\repos\测试\RoutedEventDemo\obj\Release\RoutedEventDemo.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\测试\RoutedEventDemo\obj\Release\RoutedEventDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\RoutedEventDemo\obj\Release\RoutedEventDemo.exe
+C:\Users\DELL\source\repos\测试\RoutedEventDemo\obj\Release\RoutedEventDemo.pdb

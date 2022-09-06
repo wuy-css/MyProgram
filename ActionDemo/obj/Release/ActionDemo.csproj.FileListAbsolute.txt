@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\测试\ActionDemo\bin\Release\ActionDemo.exe.config
+C:\Users\DELL\source\repos\测试\ActionDemo\bin\Release\ActionDemo.exe
+C:\Users\DELL\source\repos\测试\ActionDemo\bin\Release\ActionDemo.pdb
+C:\Users\DELL\source\repos\测试\ActionDemo\obj\Release\ActionDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\ActionDemo\obj\Release\ActionDemo.exe
+C:\Users\DELL\source\repos\测试\ActionDemo\obj\Release\ActionDemo.pdb

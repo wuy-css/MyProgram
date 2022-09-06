@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\测试\AttributeDemo\bin\Release\AttributeDemo.exe.config
+C:\Users\DELL\source\repos\测试\AttributeDemo\bin\Release\AttributeDemo.exe
+C:\Users\DELL\source\repos\测试\AttributeDemo\bin\Release\AttributeDemo.pdb
+C:\Users\DELL\source\repos\测试\AttributeDemo\obj\Release\AttributeDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\AttributeDemo\obj\Release\AttributeDemo.exe
+C:\Users\DELL\source\repos\测试\AttributeDemo\obj\Release\AttributeDemo.pdb

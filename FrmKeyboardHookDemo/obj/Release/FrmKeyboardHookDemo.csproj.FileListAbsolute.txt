@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\测试\FrmKeyboardHookDemo\bin\Release\FrmKeyboardHookDemo.exe.config
+C:\Users\DELL\source\repos\测试\FrmKeyboardHookDemo\bin\Release\FrmKeyboardHookDemo.exe
+C:\Users\DELL\source\repos\测试\FrmKeyboardHookDemo\bin\Release\FrmKeyboardHookDemo.pdb
+C:\Users\DELL\source\repos\测试\FrmKeyboardHookDemo\obj\Release\FrmKeyboardHookDemo.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\测试\FrmKeyboardHookDemo\obj\Release\FrmKeyboardHookDemo.Form1.resources
+C:\Users\DELL\source\repos\测试\FrmKeyboardHookDemo\obj\Release\FrmKeyboardHookDemo.Properties.Resources.resources
+C:\Users\DELL\source\repos\测试\FrmKeyboardHookDemo\obj\Release\FrmKeyboardHookDemo.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\测试\FrmKeyboardHookDemo\obj\Release\FrmKeyboardHookDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\FrmKeyboardHookDemo\obj\Release\FrmKeyboardHookDemo.exe
+C:\Users\DELL\source\repos\测试\FrmKeyboardHookDemo\obj\Release\FrmKeyboardHookDemo.pdb

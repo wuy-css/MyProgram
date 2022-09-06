@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\测试\AsyncDemo6\bin\Debug\AsyncDemo6.exe.config
+C:\Users\DELL\source\repos\测试\AsyncDemo6\bin\Debug\AsyncDemo6.exe
+C:\Users\DELL\source\repos\测试\AsyncDemo6\bin\Debug\AsyncDemo6.pdb
+C:\Users\DELL\source\repos\测试\AsyncDemo6\obj\Debug\AsyncDemo6.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\AsyncDemo6\obj\Debug\AsyncDemo6.exe
+C:\Users\DELL\source\repos\测试\AsyncDemo6\obj\Debug\AsyncDemo6.pdb

@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\测试\ExpressionDemo\bin\Release\ExpressionDemo.exe.config
+C:\Users\DELL\source\repos\测试\ExpressionDemo\bin\Release\ExpressionDemo.exe
+C:\Users\DELL\source\repos\测试\ExpressionDemo\bin\Release\ExpressionDemo.pdb
+C:\Users\DELL\source\repos\测试\ExpressionDemo\obj\Release\ExpressionDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\ExpressionDemo\obj\Release\ExpressionDemo.exe
+C:\Users\DELL\source\repos\测试\ExpressionDemo\obj\Release\ExpressionDemo.pdb

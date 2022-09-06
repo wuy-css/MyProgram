@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\测试\RegexDemo\bin\Release\RegexDemo.exe.config
+C:\Users\DELL\source\repos\测试\RegexDemo\bin\Release\RegexDemo.exe
+C:\Users\DELL\source\repos\测试\RegexDemo\bin\Release\RegexDemo.pdb
+C:\Users\DELL\source\repos\测试\RegexDemo\obj\Release\RegexDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\RegexDemo\obj\Release\RegexDemo.exe
+C:\Users\DELL\source\repos\测试\RegexDemo\obj\Release\RegexDemo.pdb
+C:\Users\DELL\source\repos\测试\RegexDemo\obj\Release\RegexDemo.csprojAssemblyReference.cache

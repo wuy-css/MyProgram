@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\测试\DecimalDemo\bin\Debug\DecimalDemo.exe.config
+C:\Users\DELL\source\repos\测试\DecimalDemo\bin\Debug\DecimalDemo.exe
+C:\Users\DELL\source\repos\测试\DecimalDemo\bin\Debug\DecimalDemo.pdb
+C:\Users\DELL\source\repos\测试\DecimalDemo\obj\Debug\DecimalDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\DecimalDemo\obj\Debug\DecimalDemo.exe
+C:\Users\DELL\source\repos\测试\DecimalDemo\obj\Debug\DecimalDemo.pdb

@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\测试\FloatAnimation\bin\Release\FloatAnimation.exe.config
+C:\Users\DELL\source\repos\测试\FloatAnimation\bin\Release\FloatAnimation.exe
+C:\Users\DELL\source\repos\测试\FloatAnimation\bin\Release\FloatAnimation.pdb
+C:\Users\DELL\source\repos\测试\FloatAnimation\obj\Release\FloatAnimation.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\测试\FloatAnimation\obj\Release\MainWindow.g.cs
+C:\Users\DELL\source\repos\测试\FloatAnimation\obj\Release\App.g.cs
+C:\Users\DELL\source\repos\测试\FloatAnimation\obj\Release\FloatAnimation_MarkupCompile.cache
+C:\Users\DELL\source\repos\测试\FloatAnimation\obj\Release\FloatAnimation_MarkupCompile.lref
+C:\Users\DELL\source\repos\测试\FloatAnimation\obj\Release\MainWindow.baml
+C:\Users\DELL\source\repos\测试\FloatAnimation\obj\Release\FloatAnimation.g.resources
+C:\Users\DELL\source\repos\测试\FloatAnimation\obj\Release\FloatAnimation.Properties.Resources.resources
+C:\Users\DELL\source\repos\测试\FloatAnimation\obj\Release\FloatAnimation.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\测试\FloatAnimation\obj\Release\FloatAnimation.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\FloatAnimation\obj\Release\FloatAnimation.exe
+C:\Users\DELL\source\repos\测试\FloatAnimation\obj\Release\FloatAnimation.pdb

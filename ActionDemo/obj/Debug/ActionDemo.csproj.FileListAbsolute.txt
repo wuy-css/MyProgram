@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\测试\ActionDemo\bin\Debug\ActionDemo.exe.config
+C:\Users\DELL\source\repos\测试\ActionDemo\bin\Debug\ActionDemo.exe
+C:\Users\DELL\source\repos\测试\ActionDemo\bin\Debug\ActionDemo.pdb
+C:\Users\DELL\source\repos\测试\ActionDemo\obj\Debug\ActionDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\ActionDemo\obj\Debug\ActionDemo.exe
+C:\Users\DELL\source\repos\测试\ActionDemo\obj\Debug\ActionDemo.pdb
+C:\Users\DELL\source\repos\测试\ActionDemo\obj\Debug\ActionDemo.csprojAssemblyReference.cache

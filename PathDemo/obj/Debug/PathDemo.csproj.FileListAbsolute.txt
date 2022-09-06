@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\测试\PathDemo\bin\Debug\PathDemo.exe.config
+C:\Users\DELL\source\repos\测试\PathDemo\bin\Debug\PathDemo.exe
+C:\Users\DELL\source\repos\测试\PathDemo\bin\Debug\PathDemo.pdb
+C:\Users\DELL\source\repos\测试\PathDemo\obj\Debug\PathDemo.Form1.resources
+C:\Users\DELL\source\repos\测试\PathDemo\obj\Debug\PathDemo.Properties.Resources.resources
+C:\Users\DELL\source\repos\测试\PathDemo\obj\Debug\PathDemo.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\测试\PathDemo\obj\Debug\PathDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\PathDemo\obj\Debug\PathDemo.exe
+C:\Users\DELL\source\repos\测试\PathDemo\obj\Debug\PathDemo.pdb
+C:\Users\DELL\source\repos\测试\PathDemo\obj\Debug\PathDemo.csprojAssemblyReference.cache

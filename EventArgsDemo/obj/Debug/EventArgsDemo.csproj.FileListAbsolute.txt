@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\测试\EventArgsDemo\bin\Debug\EventArgsDemo.exe.config
+C:\Users\DELL\source\repos\测试\EventArgsDemo\bin\Debug\EventArgsDemo.exe
+C:\Users\DELL\source\repos\测试\EventArgsDemo\bin\Debug\EventArgsDemo.pdb
+C:\Users\DELL\source\repos\测试\EventArgsDemo\obj\Debug\EventArgsDemo.Properties.Resources.resources
+C:\Users\DELL\source\repos\测试\EventArgsDemo\obj\Debug\EventArgsDemo.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\测试\EventArgsDemo\obj\Debug\EventArgsDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\EventArgsDemo\obj\Debug\EventArgsDemo.exe
+C:\Users\DELL\source\repos\测试\EventArgsDemo\obj\Debug\EventArgsDemo.pdb
+C:\Users\DELL\source\repos\测试\EventArgsDemo\obj\Debug\EventArgsDemo.Form1.resources
+C:\Users\DELL\source\repos\测试\EventArgsDemo\obj\Debug\EventArgsDemo.csprojAssemblyReference.cache

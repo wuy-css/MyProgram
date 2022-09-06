@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\测试\ReflectionDemo\bin\Release\ReflectionDemo.exe.config
+C:\Users\DELL\source\repos\测试\ReflectionDemo\bin\Release\ReflectionDemo.exe
+C:\Users\DELL\source\repos\测试\ReflectionDemo\bin\Release\ReflectionDemo.pdb
+C:\Users\DELL\source\repos\测试\ReflectionDemo\obj\Release\ReflectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\ReflectionDemo\obj\Release\ReflectionDemo.exe
+C:\Users\DELL\source\repos\测试\ReflectionDemo\obj\Release\ReflectionDemo.pdb

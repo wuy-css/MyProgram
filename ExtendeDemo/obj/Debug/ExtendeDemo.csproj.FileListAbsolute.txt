@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\测试\ExtendeDemo\bin\Debug\ExtendeDemo.exe.config
+C:\Users\DELL\source\repos\测试\ExtendeDemo\bin\Debug\ExtendeDemo.exe
+C:\Users\DELL\source\repos\测试\ExtendeDemo\bin\Debug\ExtendeDemo.pdb
+C:\Users\DELL\source\repos\测试\ExtendeDemo\obj\Debug\ExtendeDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\ExtendeDemo\obj\Debug\ExtendeDemo.exe
+C:\Users\DELL\source\repos\测试\ExtendeDemo\obj\Debug\ExtendeDemo.pdb

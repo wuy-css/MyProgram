@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\测试\AsyncDemo\bin\Release\AsyncDemo.exe.config
+C:\Users\DELL\source\repos\测试\AsyncDemo\bin\Release\AsyncDemo.exe
+C:\Users\DELL\source\repos\测试\AsyncDemo\bin\Release\AsyncDemo.pdb
+C:\Users\DELL\source\repos\测试\AsyncDemo\obj\Release\AsyncDemo.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\测试\AsyncDemo\obj\Release\AsyncDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\AsyncDemo\obj\Release\AsyncDemo.exe
+C:\Users\DELL\source\repos\测试\AsyncDemo\obj\Release\AsyncDemo.pdb

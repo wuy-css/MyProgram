@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\测试\CloneDemo\bin\Release\CloneDemo.exe.config
+C:\Users\DELL\source\repos\测试\CloneDemo\bin\Release\CloneDemo.exe
+C:\Users\DELL\source\repos\测试\CloneDemo\bin\Release\CloneDemo.pdb
+C:\Users\DELL\source\repos\测试\CloneDemo\obj\Release\CloneDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\CloneDemo\obj\Release\CloneDemo.exe
+C:\Users\DELL\source\repos\测试\CloneDemo\obj\Release\CloneDemo.pdb
+C:\Users\DELL\source\repos\测试\CloneDemo\obj\Release\CloneDemo.csprojAssemblyReference.cache

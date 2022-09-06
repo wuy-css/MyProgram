@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\测试\IndexerDemo\bin\Debug\IndexerDemo.exe.config
+C:\Users\DELL\source\repos\测试\IndexerDemo\bin\Debug\IndexerDemo.exe
+C:\Users\DELL\source\repos\测试\IndexerDemo\bin\Debug\IndexerDemo.pdb
+C:\Users\DELL\source\repos\测试\IndexerDemo\obj\Debug\IndexerDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\IndexerDemo\obj\Debug\IndexerDemo.exe
+C:\Users\DELL\source\repos\测试\IndexerDemo\obj\Debug\IndexerDemo.pdb

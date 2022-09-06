@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\测试\EventHandlerProgram\bin\Release\EventHandlerProgram.exe.config
+C:\Users\DELL\source\repos\测试\EventHandlerProgram\bin\Release\EventHandlerProgram.exe
+C:\Users\DELL\source\repos\测试\EventHandlerProgram\bin\Release\EventHandlerProgram.pdb
+C:\Users\DELL\source\repos\测试\EventHandlerProgram\obj\Release\EventHandlerProgram.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\测试\EventHandlerProgram\obj\Release\EventHandlerProgram.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\EventHandlerProgram\obj\Release\EventHandlerProgram.exe
+C:\Users\DELL\source\repos\测试\EventHandlerProgram\obj\Release\EventHandlerProgram.pdb

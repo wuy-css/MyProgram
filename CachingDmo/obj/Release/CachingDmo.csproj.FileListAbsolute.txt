@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\测试\CachingDmo\bin\Release\CachingDmo.exe.config
+C:\Users\DELL\source\repos\测试\CachingDmo\bin\Release\CachingDmo.exe
+C:\Users\DELL\source\repos\测试\CachingDmo\bin\Release\CachingDmo.pdb
+C:\Users\DELL\source\repos\测试\CachingDmo\obj\Release\CachingDmo.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\测试\CachingDmo\obj\Release\MainWindow.g.cs
+C:\Users\DELL\source\repos\测试\CachingDmo\obj\Release\App.g.cs
+C:\Users\DELL\source\repos\测试\CachingDmo\obj\Release\CachingDmo_MarkupCompile.cache
+C:\Users\DELL\source\repos\测试\CachingDmo\obj\Release\CachingDmo_MarkupCompile.lref
+C:\Users\DELL\source\repos\测试\CachingDmo\obj\Release\MainWindow.baml
+C:\Users\DELL\source\repos\测试\CachingDmo\obj\Release\CachingDmo.g.resources
+C:\Users\DELL\source\repos\测试\CachingDmo\obj\Release\CachingDmo.Properties.Resources.resources
+C:\Users\DELL\source\repos\测试\CachingDmo\obj\Release\CachingDmo.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\测试\CachingDmo\obj\Release\CachingDmo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\CachingDmo\obj\Release\CachingDmo.exe
+C:\Users\DELL\source\repos\测试\CachingDmo\obj\Release\CachingDmo.pdb

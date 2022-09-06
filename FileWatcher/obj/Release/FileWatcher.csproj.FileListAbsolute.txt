@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\测试\FileWatcher\bin\Release\FileWatcher.exe.config
+C:\Users\DELL\source\repos\测试\FileWatcher\bin\Release\FileWatcher.exe
+C:\Users\DELL\source\repos\测试\FileWatcher\bin\Release\FileWatcher.pdb
+C:\Users\DELL\source\repos\测试\FileWatcher\obj\Release\FileWatcher.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\测试\FileWatcher\obj\Release\MainWindow.g.cs
+C:\Users\DELL\source\repos\测试\FileWatcher\obj\Release\App.g.cs
+C:\Users\DELL\source\repos\测试\FileWatcher\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\source\repos\测试\FileWatcher\obj\Release\FileWatcher_MarkupCompile.cache
+C:\Users\DELL\source\repos\测试\FileWatcher\obj\Release\FileWatcher_MarkupCompile.lref
+C:\Users\DELL\source\repos\测试\FileWatcher\obj\Release\MainWindow.baml
+C:\Users\DELL\source\repos\测试\FileWatcher\obj\Release\FileWatcher.g.resources
+C:\Users\DELL\source\repos\测试\FileWatcher\obj\Release\FileWatcher.Properties.Resources.resources
+C:\Users\DELL\source\repos\测试\FileWatcher\obj\Release\FileWatcher.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\测试\FileWatcher\obj\Release\FileWatcher.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\测试\FileWatcher\obj\Release\FileWatcher.exe
+C:\Users\DELL\source\repos\测试\FileWatcher\obj\Release\FileWatcher.pdb

@@ -1,0 +1,30 @@
+﻿<Window x:Class="CommandDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CommandDemo"
+        mc:Ignorable="d" Name="MWindow"
+        Title="MainWindow" Height="450" Width="800">
+    <!--<Grid>
+        <Button Content="Close Window" Width="100" Height="25" Command="{Binding CloseWindowCommand}" CommandParameter="{Binding ElementName=MWindow}" />
+    </Grid>-->
+    <Window.DataContext>
+        <local:MainWindowModel/>
+    </Window.DataContext>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Button Grid.Row="0" Command="{Binding HiButtonCommand}" 
+        CommandParameter="Hai" Content="{Binding HiButtonContent}"
+                Width="100"
+                Height="100"  />
+
+        <Button Grid.Row="1" Content="Toggle Can Click" 
+        Command="{Binding ToggleExecuteCommand}"  Width="100" Height="100"/>
+    </Grid>
+</Window>
