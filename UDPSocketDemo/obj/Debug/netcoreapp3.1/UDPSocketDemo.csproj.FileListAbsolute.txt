@@ -24,3 +24,16 @@ C:\Users\DELL\source\repos\测试\MyProgram\UDPSocketDemo\obj\Debug\netcoreapp3.
 C:\Users\DELL\source\repos\测试\MyProgram\UDPSocketDemo\obj\Debug\netcoreapp3.1\UDPSocketDemo.dll
 C:\Users\DELL\source\repos\测试\MyProgram\UDPSocketDemo\obj\Debug\netcoreapp3.1\UDPSocketDemo.pdb
 C:\Users\DELL\source\repos\测试\MyProgram\UDPSocketDemo\obj\Debug\netcoreapp3.1\UDPSocketDemo.genruntimeconfig.cache
+C:\Users\DELL\source\CESHI\MyProgram\UDPSocketDemo\bin\Debug\netcoreapp3.1\UDPSocketDemo.exe
+C:\Users\DELL\source\CESHI\MyProgram\UDPSocketDemo\bin\Debug\netcoreapp3.1\UDPSocketDemo.deps.json
+C:\Users\DELL\source\CESHI\MyProgram\UDPSocketDemo\bin\Debug\netcoreapp3.1\UDPSocketDemo.runtimeconfig.json
+C:\Users\DELL\source\CESHI\MyProgram\UDPSocketDemo\bin\Debug\netcoreapp3.1\UDPSocketDemo.runtimeconfig.dev.json
+C:\Users\DELL\source\CESHI\MyProgram\UDPSocketDemo\bin\Debug\netcoreapp3.1\UDPSocketDemo.dll
+C:\Users\DELL\source\CESHI\MyProgram\UDPSocketDemo\bin\Debug\netcoreapp3.1\UDPSocketDemo.pdb
+C:\Users\DELL\source\CESHI\MyProgram\UDPSocketDemo\obj\Debug\netcoreapp3.1\UDPSocketDemo.csprojAssemblyReference.cache
+C:\Users\DELL\source\CESHI\MyProgram\UDPSocketDemo\obj\Debug\netcoreapp3.1\UDPSocketDemo.AssemblyInfoInputs.cache
+C:\Users\DELL\source\CESHI\MyProgram\UDPSocketDemo\obj\Debug\netcoreapp3.1\UDPSocketDemo.AssemblyInfo.cs
+C:\Users\DELL\source\CESHI\MyProgram\UDPSocketDemo\obj\Debug\netcoreapp3.1\UDPSocketDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\CESHI\MyProgram\UDPSocketDemo\obj\Debug\netcoreapp3.1\UDPSocketDemo.dll
+C:\Users\DELL\source\CESHI\MyProgram\UDPSocketDemo\obj\Debug\netcoreapp3.1\UDPSocketDemo.pdb
+C:\Users\DELL\source\CESHI\MyProgram\UDPSocketDemo\obj\Debug\netcoreapp3.1\UDPSocketDemo.genruntimeconfig.cache

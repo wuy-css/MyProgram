@@ -4,3 +4,9 @@ C:\Users\DELL\source\repos\测试\ArrayDemo\bin\Debug\ArrayDemo.exe
 C:\Users\DELL\source\repos\测试\ArrayDemo\bin\Debug\ArrayDemo.pdb
 C:\Users\DELL\source\repos\测试\ArrayDemo\obj\Debug\ArrayDemo.exe
 C:\Users\DELL\source\repos\测试\ArrayDemo\obj\Debug\ArrayDemo.pdb
+C:\Users\DELL\source\CESHI\MyProgram\ArrayDemo\bin\Debug\ArrayDemo.exe.config
+C:\Users\DELL\source\CESHI\MyProgram\ArrayDemo\bin\Debug\ArrayDemo.exe
+C:\Users\DELL\source\CESHI\MyProgram\ArrayDemo\bin\Debug\ArrayDemo.pdb
+C:\Users\DELL\source\CESHI\MyProgram\ArrayDemo\obj\Debug\ArrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\CESHI\MyProgram\ArrayDemo\obj\Debug\ArrayDemo.exe
+C:\Users\DELL\source\CESHI\MyProgram\ArrayDemo\obj\Debug\ArrayDemo.pdb

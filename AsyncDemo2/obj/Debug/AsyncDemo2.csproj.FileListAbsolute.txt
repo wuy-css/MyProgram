@@ -5,3 +5,10 @@ C:\Users\DELL\source\repos\测试\AsyncDemo2\obj\Debug\AsyncDemo2.csproj.CoreCom
 C:\Users\DELL\source\repos\测试\AsyncDemo2\obj\Debug\AsyncDemo2.exe
 C:\Users\DELL\source\repos\测试\AsyncDemo2\obj\Debug\AsyncDemo2.pdb
 C:\Users\DELL\source\repos\测试\AsyncDemo2\obj\Debug\AsyncDemo2.csprojAssemblyReference.cache
+C:\Users\DELL\source\CESHI\MyProgram\AsyncDemo2\bin\Debug\AsyncDemo2.exe.config
+C:\Users\DELL\source\CESHI\MyProgram\AsyncDemo2\bin\Debug\AsyncDemo2.exe
+C:\Users\DELL\source\CESHI\MyProgram\AsyncDemo2\bin\Debug\AsyncDemo2.pdb
+C:\Users\DELL\source\CESHI\MyProgram\AsyncDemo2\obj\Debug\AsyncDemo2.csprojAssemblyReference.cache
+C:\Users\DELL\source\CESHI\MyProgram\AsyncDemo2\obj\Debug\AsyncDemo2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\CESHI\MyProgram\AsyncDemo2\obj\Debug\AsyncDemo2.exe
+C:\Users\DELL\source\CESHI\MyProgram\AsyncDemo2\obj\Debug\AsyncDemo2.pdb

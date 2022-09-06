@@ -4,3 +4,9 @@ C:\Users\DELL\source\repos\测试\Value_ReferenceDemo\bin\Debug\Value_ReferenceD
 C:\Users\DELL\source\repos\测试\Value_ReferenceDemo\obj\Debug\Value_ReferenceDemo.csproj.CoreCompileInputs.cache
 C:\Users\DELL\source\repos\测试\Value_ReferenceDemo\obj\Debug\Value_ReferenceDemo.exe
 C:\Users\DELL\source\repos\测试\Value_ReferenceDemo\obj\Debug\Value_ReferenceDemo.pdb
+C:\Users\DELL\source\CESHI\MyProgram\Value_ReferenceDemo\bin\Debug\Value_ReferenceDemo.exe.config
+C:\Users\DELL\source\CESHI\MyProgram\Value_ReferenceDemo\bin\Debug\Value_ReferenceDemo.exe
+C:\Users\DELL\source\CESHI\MyProgram\Value_ReferenceDemo\bin\Debug\Value_ReferenceDemo.pdb
+C:\Users\DELL\source\CESHI\MyProgram\Value_ReferenceDemo\obj\Debug\Value_ReferenceDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\CESHI\MyProgram\Value_ReferenceDemo\obj\Debug\Value_ReferenceDemo.exe
+C:\Users\DELL\source\CESHI\MyProgram\Value_ReferenceDemo\obj\Debug\Value_ReferenceDemo.pdb

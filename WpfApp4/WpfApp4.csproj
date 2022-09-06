@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{89575525-91DE-42C6-9EDB-9B52868E2369}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WpfApp4</RootNamespace>
+    <AssemblyName>WpfApp4</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>portable</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Bootstrapper.cs" />
+    <Compile Include="Command\MyCommand.cs" />
+    <Compile Include="Contorl\AtgoPasswordBox.cs" />
+    <Compile Include="Contorl\RepeatButtonPasswordBox.cs" />
+    <Compile Include="Contorl\AduPasswordBox.cs" />
+    <Compile Include="Converter\ColorConverter.cs" />
+    <Compile Include="Method\UdpClient.cs" />
+    <Compile Include="Models\DelegateCommand.cs" />
+    <Compile Include="Models\Event.cs" />
+    <Compile Include="Models\MyboxClass.cs" />
+    <Compile Include="Models\MyPeople.cs" />
+    <Compile Include="Models\PopUP.cs" />
+    <Compile Include="Models\TreeModel.cs" />
+    <Compile Include="Models\Unity.cs" />
+    <Compile Include="Models\Person.cs" />
+    <Compile Include="NotifyProperty\CommonNotifyProperty.cs" />
+    <Compile Include="ViewModels\ControlsViewModel.cs" />
+    <Compile Include="ViewModels\DataGridControlViewModel.cs" />
+    <Compile Include="ViewModels\FileStreamViewModel.cs" />
+    <Compile Include="ViewModels\ForViewModel.cs" />
+    <Compile Include="ViewModels\FullKeyboardViewModel.cs" />
+    <Compile Include="ViewModels\JsonViewModel.cs" />
+    <Compile Include="ViewModels\MultiViewModel.cs" />
+    <Compile Include="ViewModels\PopUpViewModel.cs" />
+    <Compile Include="ViewModels\PrintRichViewModel.cs" />
+    <Compile Include="ViewModels\RestartExplorerViewModel.cs" />
+    <Compile Include="ViewModels\ScrollControlViewModel.cs" />
+    <Compile Include="ViewModels\ScrollShowViewModel.cs" />
+    <Compile Include="ViewModels\TabControlViewModel.cs" />
+    <Compile Include="ViewModels\TreeViewWindow2ViewModel.cs" />
+    <Compile Include="ViewModels\TreeViewWindowViewModel.cs" />
+    <Compile Include="ViewModels\WindowCommandViewModel.cs" />
+    <Compile Include="ViewModels\WindowRepeaterButtonViewModel.cs" />
+    <Compile Include="Views\ControlsView.xaml.cs">
+      <DependentUpon>ControlsView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\DataGridControlView.xaml.cs">
+      <DependentUpon>DataGridControlView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\FileStreamView.xaml.cs">
+      <DependentUpon>FileStreamView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ForView.xaml.cs">
+      <DependentUpon>ForView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\FullKeyboardView.xaml.cs">
+      <DependentUpon>FullKeyboardView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MultiView.xaml.cs">
+      <DependentUpon>MultiView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\PopUpView.xaml.cs">
+      <DependentUpon>PopUpView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\PrintRichView.xaml.cs">
+      <DependentUpon>PrintRichView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\RestartExplorerView.xaml.cs">
+      <DependentUpon>RestartExplorerView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ScrollControlView.xaml.cs">
+      <DependentUpon>ScrollControlView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ScrollShowView.xaml.cs">
+      <DependentUpon>ScrollShowView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TabControlView.xaml.cs">
+      <DependentUpon>TabControlView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TreeViewWindow2View.xaml.cs">
+      <DependentUpon>TreeViewWindow2View.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TreeViewWindowView.xaml.cs">
+      <DependentUpon>TreeViewWindowView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\WindowCommandView.xaml.cs">
+      <DependentUpon>WindowCommandView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\WindowRepeaterButtonView.xaml.cs">
+      <DependentUpon>WindowRepeaterButtonView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Window1.xaml.cs">
+      <DependentUpon>Window1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\WindowtTabView.xaml.cs">
+      <DependentUpon>WindowtTabView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModels\WindowtTabViewModel.cs" />
+    <Compile Include="概念.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Resource Include="Images\close.png" />
+    <Resource Include="命令.txt" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Content Include="Disclaimer\Disclaimer.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Fonts\fontawesome-webfont.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="Resource\Dictionary.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\ControlsView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\FileStreamView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\MultiView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\PopUpView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\PrintRichView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\TabControlView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\TreeViewWindow2View.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\TreeViewWindowView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\xDataGrid.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\DataGridControlView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\ForView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\FullKeyboardView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\RestartExplorerView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\ScrollControlView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\ScrollShowView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\WindowCommandView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\WindowRepeaterButtonView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\xCombobox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\xNCombobox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\xNewsCombobox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Window1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\WindowtTabView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Caliburn.Micro">
+      <Version>3.2.0</Version>
+    </PackageReference>
+    <PackageReference Include="Caliburn.Micro.Core">
+      <Version>3.2.0</Version>
+    </PackageReference>
+    <PackageReference Include="MahApps.Metro">
+      <Version>1.6.5</Version>
+    </PackageReference>
+    <PackageReference Include="xunit.extensibility.core">
+      <Version>2.4.1</Version>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -5,3 +5,10 @@ C:\Users\DELL\source\repos\测试\LINQProgram\obj\Debug\LINQProgram.csproj.CoreC
 C:\Users\DELL\source\repos\测试\LINQProgram\obj\Debug\LINQProgram.exe
 C:\Users\DELL\source\repos\测试\LINQProgram\obj\Debug\LINQProgram.pdb
 C:\Users\DELL\source\repos\测试\LINQProgram\obj\Debug\LINQProgram.csprojAssemblyReference.cache
+C:\Users\DELL\source\CESHI\MyProgram\LINQProgram\bin\Debug\LINQProgram.exe.config
+C:\Users\DELL\source\CESHI\MyProgram\LINQProgram\bin\Debug\LINQProgram.exe
+C:\Users\DELL\source\CESHI\MyProgram\LINQProgram\bin\Debug\LINQProgram.pdb
+C:\Users\DELL\source\CESHI\MyProgram\LINQProgram\obj\Debug\LINQProgram.csprojAssemblyReference.cache
+C:\Users\DELL\source\CESHI\MyProgram\LINQProgram\obj\Debug\LINQProgram.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\CESHI\MyProgram\LINQProgram\obj\Debug\LINQProgram.exe
+C:\Users\DELL\source\CESHI\MyProgram\LINQProgram\obj\Debug\LINQProgram.pdb

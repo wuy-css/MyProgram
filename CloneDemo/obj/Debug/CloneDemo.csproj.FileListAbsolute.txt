@@ -4,3 +4,9 @@ C:\Users\DELL\source\repos\测试\CloneDemo\bin\Debug\CloneDemo.pdb
 C:\Users\DELL\source\repos\测试\CloneDemo\obj\Debug\CloneDemo.csproj.CoreCompileInputs.cache
 C:\Users\DELL\source\repos\测试\CloneDemo\obj\Debug\CloneDemo.exe
 C:\Users\DELL\source\repos\测试\CloneDemo\obj\Debug\CloneDemo.pdb
+C:\Users\DELL\source\CESHI\MyProgram\CloneDemo\bin\Debug\CloneDemo.exe.config
+C:\Users\DELL\source\CESHI\MyProgram\CloneDemo\bin\Debug\CloneDemo.exe
+C:\Users\DELL\source\CESHI\MyProgram\CloneDemo\bin\Debug\CloneDemo.pdb
+C:\Users\DELL\source\CESHI\MyProgram\CloneDemo\obj\Debug\CloneDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\CESHI\MyProgram\CloneDemo\obj\Debug\CloneDemo.exe
+C:\Users\DELL\source\CESHI\MyProgram\CloneDemo\obj\Debug\CloneDemo.pdb

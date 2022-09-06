@@ -4,3 +4,9 @@ C:\Users\DELL\source\repos\测试\ExpressionDemo\bin\Debug\ExpressionDemo.pdb
 C:\Users\DELL\source\repos\测试\ExpressionDemo\obj\Debug\ExpressionDemo.csproj.CoreCompileInputs.cache
 C:\Users\DELL\source\repos\测试\ExpressionDemo\obj\Debug\ExpressionDemo.exe
 C:\Users\DELL\source\repos\测试\ExpressionDemo\obj\Debug\ExpressionDemo.pdb
+C:\Users\DELL\source\CESHI\MyProgram\ExpressionDemo\bin\Debug\ExpressionDemo.exe.config
+C:\Users\DELL\source\CESHI\MyProgram\ExpressionDemo\bin\Debug\ExpressionDemo.exe
+C:\Users\DELL\source\CESHI\MyProgram\ExpressionDemo\bin\Debug\ExpressionDemo.pdb
+C:\Users\DELL\source\CESHI\MyProgram\ExpressionDemo\obj\Debug\ExpressionDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\CESHI\MyProgram\ExpressionDemo\obj\Debug\ExpressionDemo.exe
+C:\Users\DELL\source\CESHI\MyProgram\ExpressionDemo\obj\Debug\ExpressionDemo.pdb

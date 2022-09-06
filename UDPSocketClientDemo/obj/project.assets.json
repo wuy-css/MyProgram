@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\测试\\MyProgram\\UDPSocketClientDemo\\UDPSocketClientDemo.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\source\\CESHI\\MyProgram\\UDPSocketClientDemo\\UDPSocketClientDemo.csproj",
       "projectName": "UDPSocketClientDemo",
-      "projectPath": "C:\\Users\\DELL\\source\\repos\\测试\\MyProgram\\UDPSocketClientDemo\\UDPSocketClientDemo.csproj",
+      "projectPath": "C:\\Users\\DELL\\source\\CESHI\\MyProgram\\UDPSocketClientDemo\\UDPSocketClientDemo.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\source\\repos\\测试\\MyProgram\\UDPSocketClientDemo\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\source\\CESHI\\MyProgram\\UDPSocketClientDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

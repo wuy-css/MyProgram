@@ -4,3 +4,9 @@ C:\Users\DELL\source\repos\测试\CollectionDemo\bin\Debug\CollectionDemo.pdb
 C:\Users\DELL\source\repos\测试\CollectionDemo\obj\Debug\CollectionDemo.csproj.CoreCompileInputs.cache
 C:\Users\DELL\source\repos\测试\CollectionDemo\obj\Debug\CollectionDemo.exe
 C:\Users\DELL\source\repos\测试\CollectionDemo\obj\Debug\CollectionDemo.pdb
+C:\Users\DELL\source\CESHI\MyProgram\CollectionDemo\bin\Debug\CollectionDemo.exe.config
+C:\Users\DELL\source\CESHI\MyProgram\CollectionDemo\bin\Debug\CollectionDemo.exe
+C:\Users\DELL\source\CESHI\MyProgram\CollectionDemo\bin\Debug\CollectionDemo.pdb
+C:\Users\DELL\source\CESHI\MyProgram\CollectionDemo\obj\Debug\CollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\CESHI\MyProgram\CollectionDemo\obj\Debug\CollectionDemo.exe
+C:\Users\DELL\source\CESHI\MyProgram\CollectionDemo\obj\Debug\CollectionDemo.pdb

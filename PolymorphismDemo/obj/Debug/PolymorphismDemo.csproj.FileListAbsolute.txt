@@ -10,3 +10,9 @@ C:\Users\DELL\source\repos\测试\MyProgram\PolymorphismDemo\bin\Debug\Polymorph
 C:\Users\DELL\source\repos\测试\MyProgram\PolymorphismDemo\obj\Debug\PolymorphismDemo.csproj.CoreCompileInputs.cache
 C:\Users\DELL\source\repos\测试\MyProgram\PolymorphismDemo\obj\Debug\PolymorphismDemo.exe
 C:\Users\DELL\source\repos\测试\MyProgram\PolymorphismDemo\obj\Debug\PolymorphismDemo.pdb
+C:\Users\DELL\source\CESHI\MyProgram\PolymorphismDemo\bin\Debug\PolymorphismDemo.exe.config
+C:\Users\DELL\source\CESHI\MyProgram\PolymorphismDemo\bin\Debug\PolymorphismDemo.exe
+C:\Users\DELL\source\CESHI\MyProgram\PolymorphismDemo\bin\Debug\PolymorphismDemo.pdb
+C:\Users\DELL\source\CESHI\MyProgram\PolymorphismDemo\obj\Debug\PolymorphismDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\CESHI\MyProgram\PolymorphismDemo\obj\Debug\PolymorphismDemo.exe
+C:\Users\DELL\source\CESHI\MyProgram\PolymorphismDemo\obj\Debug\PolymorphismDemo.pdb

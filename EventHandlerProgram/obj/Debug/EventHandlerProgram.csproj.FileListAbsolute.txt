@@ -5,3 +5,10 @@ C:\Users\DELL\source\repos\测试\EventHandlerProgram\obj\Debug\EventHandlerProg
 C:\Users\DELL\source\repos\测试\EventHandlerProgram\obj\Debug\EventHandlerProgram.exe
 C:\Users\DELL\source\repos\测试\EventHandlerProgram\obj\Debug\EventHandlerProgram.pdb
 C:\Users\DELL\source\repos\测试\EventHandlerProgram\obj\Debug\EventHandlerProgram.csprojAssemblyReference.cache
+C:\Users\DELL\source\CESHI\MyProgram\EventHandlerProgram\bin\Debug\EventHandlerProgram.exe.config
+C:\Users\DELL\source\CESHI\MyProgram\EventHandlerProgram\bin\Debug\EventHandlerProgram.exe
+C:\Users\DELL\source\CESHI\MyProgram\EventHandlerProgram\bin\Debug\EventHandlerProgram.pdb
+C:\Users\DELL\source\CESHI\MyProgram\EventHandlerProgram\obj\Debug\EventHandlerProgram.csprojAssemblyReference.cache
+C:\Users\DELL\source\CESHI\MyProgram\EventHandlerProgram\obj\Debug\EventHandlerProgram.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\CESHI\MyProgram\EventHandlerProgram\obj\Debug\EventHandlerProgram.exe
+C:\Users\DELL\source\CESHI\MyProgram\EventHandlerProgram\obj\Debug\EventHandlerProgram.pdb

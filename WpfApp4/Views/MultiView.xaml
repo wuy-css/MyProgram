@@ -1,0 +1,34 @@
+﻿<Window x:Class="WpfApp4.Views.MultiView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:metro="http://metro.mahapps.com/winfx/xaml/controls"
+             xmlns:local="clr-namespace:WpfApp4.Converter"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800" Width="500">
+    <Window.Resources>
+        <local:ColorConverter  x:Key="rgbCvt"/>
+    </Window.Resources>
+    <Grid>
+        <Label x:Name="label" Content="Red:" HorizontalAlignment="Left" Margin="10,48,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy" Content="Green:" HorizontalAlignment="Left" Margin="7,85,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy1" Content="Blue:" HorizontalAlignment="Left" Margin="7,123,0,0" VerticalAlignment="Top"/>
+        <Slider x:Name="slider_r" Minimum="0" Maximum="255" Ticks="1"   HorizontalAlignment="Left" Margin="68,53,0,0" VerticalAlignment="Top" Width="207"/>
+        <Slider x:Name="slider_g" Minimum="0" Maximum="255"  Ticks="1" HorizontalAlignment="Left" Margin="68,91,0,0" VerticalAlignment="Top" Width="207"/>
+        <Slider x:Name="slider_b" Minimum="0" Maximum="255"  Ticks="1" HorizontalAlignment="Left" Margin="68,124,0,0" VerticalAlignment="Top" Width="207"/>
+        <Rectangle x:Name="rectangle" HorizontalAlignment="Left" Height="90" Margin="68,160,0,0" Stroke="Black" VerticalAlignment="Top" Width="142">
+            <Rectangle.Fill>
+                <MultiBinding Converter="{StaticResource rgbCvt}">
+                    <Binding ElementName="slider_r" Path="Value"></Binding>
+                    <Binding ElementName="slider_g" Path="Value"></Binding>
+                    <Binding ElementName="slider_b" Path="Value"></Binding>
+                </MultiBinding>
+            </Rectangle.Fill>
+        </Rectangle>
+        <StackPanel Orientation="Horizontal" Height="30" Margin="68 280 0 0">
+            <TextBlock Width="100" Text="{Binding ElementName=rectangle,Path=Fill}"/>
+            <Button Name="abc" Content="hello"></Button>
+        </StackPanel>
+    </Grid>
+</Window>

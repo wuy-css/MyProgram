@@ -5,3 +5,10 @@ C:\Users\DELL\source\repos\测试\ActionDemo\obj\Debug\ActionDemo.csproj.CoreCom
 C:\Users\DELL\source\repos\测试\ActionDemo\obj\Debug\ActionDemo.exe
 C:\Users\DELL\source\repos\测试\ActionDemo\obj\Debug\ActionDemo.pdb
 C:\Users\DELL\source\repos\测试\ActionDemo\obj\Debug\ActionDemo.csprojAssemblyReference.cache
+C:\Users\DELL\source\CESHI\MyProgram\ActionDemo\bin\Debug\ActionDemo.exe.config
+C:\Users\DELL\source\CESHI\MyProgram\ActionDemo\bin\Debug\ActionDemo.exe
+C:\Users\DELL\source\CESHI\MyProgram\ActionDemo\bin\Debug\ActionDemo.pdb
+C:\Users\DELL\source\CESHI\MyProgram\ActionDemo\obj\Debug\ActionDemo.csprojAssemblyReference.cache
+C:\Users\DELL\source\CESHI\MyProgram\ActionDemo\obj\Debug\ActionDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\CESHI\MyProgram\ActionDemo\obj\Debug\ActionDemo.exe
+C:\Users\DELL\source\CESHI\MyProgram\ActionDemo\obj\Debug\ActionDemo.pdb

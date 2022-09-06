@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\source\\repos\\测试\\MyProgram\\UDPSocketDemo\\UDPSocketDemo.csproj": {}
+    "C:\\Users\\DELL\\source\\CESHI\\MyProgram\\UDPSocketDemo\\UDPSocketDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\source\\repos\\测试\\MyProgram\\UDPSocketDemo\\UDPSocketDemo.csproj": {
+    "C:\\Users\\DELL\\source\\CESHI\\MyProgram\\UDPSocketDemo\\UDPSocketDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\测试\\MyProgram\\UDPSocketDemo\\UDPSocketDemo.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\source\\CESHI\\MyProgram\\UDPSocketDemo\\UDPSocketDemo.csproj",
         "projectName": "UDPSocketDemo",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\测试\\MyProgram\\UDPSocketDemo\\UDPSocketDemo.csproj",
+        "projectPath": "C:\\Users\\DELL\\source\\CESHI\\MyProgram\\UDPSocketDemo\\UDPSocketDemo.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\测试\\MyProgram\\UDPSocketDemo\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\source\\CESHI\\MyProgram\\UDPSocketDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -4,3 +4,9 @@ C:\Users\DELL\source\repos\测试\QuestionMarkDemo\bin\Debug\QuestionMarkDemo.pd
 C:\Users\DELL\source\repos\测试\QuestionMarkDemo\obj\Debug\QuestionMarkDemo.csproj.CoreCompileInputs.cache
 C:\Users\DELL\source\repos\测试\QuestionMarkDemo\obj\Debug\QuestionMarkDemo.exe
 C:\Users\DELL\source\repos\测试\QuestionMarkDemo\obj\Debug\QuestionMarkDemo.pdb
+C:\Users\DELL\source\CESHI\MyProgram\QuestionMarkDemo\bin\Debug\QuestionMarkDemo.exe.config
+C:\Users\DELL\source\CESHI\MyProgram\QuestionMarkDemo\bin\Debug\QuestionMarkDemo.exe
+C:\Users\DELL\source\CESHI\MyProgram\QuestionMarkDemo\bin\Debug\QuestionMarkDemo.pdb
+C:\Users\DELL\source\CESHI\MyProgram\QuestionMarkDemo\obj\Debug\QuestionMarkDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\CESHI\MyProgram\QuestionMarkDemo\obj\Debug\QuestionMarkDemo.exe
+C:\Users\DELL\source\CESHI\MyProgram\QuestionMarkDemo\obj\Debug\QuestionMarkDemo.pdb

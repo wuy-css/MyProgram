@@ -1,0 +1,272 @@
+﻿1、基础：
+#ls是list,列表，也就是获取test目录下的文件列表
+ls test
+
+#cd 是change directory,也就是切换到test目录下
+cd test
+
+#pwd是print work directory，也就是打印当前目录路径
+pwd
+
+#mkdir是make directory, 创建目录，后面加要创建的目录名
+mkdir test
+
+#rm,rmdir 是re     directory，移除文件
+rmdir test
+rm test.txt
+
+#mv命令是move的缩写，可以用来移动文件或者将文件改名
+mv [选项] 源文件或目录 目标文件或目录
+mv test tst
+
+#cp是copy,复制文件或目录
+cp [options] source dest
+
+#vi是编辑器的名字,后面加文件名，是打开文件
+vi test.txt
+
+Linux ESC :wq
+
+esc(键退出)->:(符号输入)->wq(保存退出)
+
+wq(存盘并退出 write%quite) 即使文件没有被修改也强制写入，并更新文件的修改时间。
+
+:wq和:wq!的区别：
+
+:wq(保存编辑操作退出)  强制性写入文件并退出
+
+:wq!(保存编辑强制退出) 强制性写入文件并强制退出
+
+:wq和:x的区别： :x   写入文件并退出。仅当文件被修改时才写入，并更新文件修改时间；否则不会更新文件修改时间。
+
+2、列举比较常用命令
+#查看IP,查看网络和配置网络
+ifconfig
+
+#确定网络和各外部主机的状态；跟踪和隔离硬件和软件问题；测试、评估和管理网络
+ping www.baidu.com
+
+#确认目标主机端口是否打开
+telnet www.baidu.com 
+#启动telnet服务命令
+service xinetd restart
+
+#netstat 是net state,用于显示与IP、TCP、UDP和ICMP协议相关的统计数据，一般用于检验本机各端口的网络连接情况
+netstat 
+
+#wget,用于从网络上下载资源
+wget
+
+3、文件压缩解压
+
+.tar 
+　　解包：tar xvf FileName.tar
+　　打包：tar cvf FileName.tar DirName
+　　（注：tar是打包，不是压缩！）
+.gz
+　　解压1：gunzip FileName.gz
+　　解压2：gzip -d FileName.gz
+　　压缩：gzip FileName
+.tar.gz 和 .tgz
+　　解压：tar zxvf FileName.tar.gz
+　　压缩：tar zcvf FileName.tar.gz DirName
+
+4、文件操作
+
+#diff 是different，比较两个文件的不同之处
+diff[op] dirName targetName
+
+#find命令在目录结构中搜索文件，并执行指定的操作
+find test 
+根目录$HOME中查找文件名符合*.txt的文件 $ find ~ -name "*.txt" -print
+想要在当前目录及子目录中查找所有的‘ *.txt’文件，可以用：
+$ find . -name "*.txt" -print
+想要的当前目录及子目录中查找文件名以一个大写字母开头的文件，可以用：
+$ find . -name "[A-Z]*" -print
+想要在/etc目录中查找文件名以host开头的文件，可以用：
+$ find /etc -name "host*" -print
+想要查找$HOME目录中的文件，可以用：
+$ find ~ -name "*" -print 或find . -print
+要想让系统高负荷运行，就从根目录开始查找所有的文件。
+$ find / -name "*" -print
+如果想在当前目录查找文件名以两个小写字母开头，跟着是两个数字，最后是.txt的文件，下面的命令就能够返回名为ax37.txt的文件：
+$find . -name "[a-z][a-z][0--9][0--9].txt" -print
+$find 文件目录  -type f |xargs grep "查询内容"; 
+#用于过滤/搜索的特定字符,通常与管道符“|”并与其他命令配合使用
+grep 全称是:Globally search a Regular Expression and Print(全局搜索正则表达式并打印)
+##文件名+内容
+  grep -r "查询内容"  文件目录
+  grep '2020-02-27 17:5[6,9]' xinyar-erp-auto.log ##根据时间查找日志  
+  eg、grep -E '2020-02-27 14:5[5-9]|2020-02-28 15:0[0-5]' xinyar-erp-auto.log ##查询指定时间段内的日志
+  grep -C 10 'aaaa' nohup.out ##查找关键字  
+  grep -r -l "查询内容"  文件目录  ##只显示包含内容的文件名
+##文件名+内容  
+递归查找目录下含有该字符串的所有文件
+grep -rn "data_chushou_pay_info"  /home/hadoop/nisj/automationDemand/
+查找当前目录下后缀名过滤的文件
+grep -Rn "data_chushou_pay_info" *.py
+当前目录及设定子目录下的符合条件的文件
+grep -Rn "data_chushou_pay_info" /home/hadoop/nisj/automationDemand/ *.py 
+结合find命令过滤目录及文件名后缀
+find /home/hadoop/nisj/automationDemand/ -type f -name '*.py'|xargs grep -n 'data_chushou_pay_info
+* : 表示当前目录所有文件，也可以是某个文件名
+-r 是递归查找
+-n 是显示行号
+-R 查找所有文件包含子目录
+-i 忽略大小写
+#cat 是categrory,显示整个文件
+ cat /var/named/log.txt|grep 172.16.50.24
+ cat file.txt 							# 查看文件
+ cat -n file.txt 						# 查看并显示行号
+ cat -b file.txt 						# 与-n类似，但对空行不编号
+ cat -s file.txt 						# 将连续的空行“压缩”成1行
+ cat file1.txt file2.txt > file3.txt 	# 将file1.txt和file2.txt合并到file3.txt
+ cat log.txt | grep 'ERROR' -B 5  之前5行
+ cat log.txt | grep 'ERROR' -C 5 前后5行
+ cat log.txt | grep -v 'ERROR' 排除ERROR所在的行
+ cat /var/log/secure |grep "Failed password"   > login.txt 查找文件内容，如何能把查找到的内容汇总到一起
+
+#chown 是用来设置用户组的，比如授权某用户组，方便控制用户权限
+chown [op] [own][:[gro]] targetName
+
+#chmod 是用来设置文件夹和文件权限的,r 表示可读取，w 表示可写入，x 表示可执行，X 表示只有当该档案是个子目录或者该档案已经被设定过为可执行
+chmod 777 *
+
+#mode : 权限设定字串，用数字或字符表示，格式如下 : [ugoa...][[+-=][rwxX]...][,...]，
+#字母：其中u 表示该档案的拥有者，g 表示与该档案的拥有者属于同一个群体(group)者，o 表示其他以外的人，a 表示这三者皆是。
+#数字：可写 w=4 可读 r=2 可执行 x=1 777就是拥有全权限
+
+5、系统常用
+
+#who，显示目前登入系统的用户信息
+who [op]
+
+#su命令是服务器用户相互切换
+su [用户] 或者 su - [用户]
+#说明：su与su - 命令的区别：su命令只是切换了用户身份，而su -不仅切换了用户身份，也切换了用户的shell环境
+
+#password修改用户密码
+password
+#说明：只能修改自身密码，或者权限高的修改权限低的用户密码。如 root用户可修改本身密码，也可修改普通用户密码；而普通用户只能修改本身密码。
+
+#history查询命令历史记录
+history [op]
+history -c  #清除所有的命令历史
+
+#显示或设定系统的日期与时间
+date [op] [输入格式]
+
+#kill 终止进程，pid指进程号，为必须参数。sig为信号
+kill [sig] pid
+
+#clear 清除屏幕
+clear
+
+#reboot 重启
+reboot
+sudo reboot
+
+#安全关闭或者重新启动系统
+shutdown
+
+6、动态显示当前系统正在执行的进程的相关信息，包括进程ID、内存占用率、CPU占用等，这个开发中最常用
+
+top [op]
+op为命令选项：
+    -i<时间>：设置间隔时间
+    -u<用户名>：指定用户名
+    -p<进程号>：指定进程
+    -n<次数>：循环显示的次数 
+使用q 或ctrl+c退出top
+
+7、开发常用
+
+格式：ps [op]
+
+功能：显示当前进程的状态
+说明：列出的是当前那些进程的快照，及命令执行时的进程状态
+　　op为命令选项，如下：
+-a：显示同一终端下的所有程序
+-A：显示所有进程
+-c：显示进程的真实名称
+-e：显示环境变量
+-f：显示程序间的关系
+-r：显示当前终端的进程
+ -T：显示当前终端的所有程序
+ -u：指定用户的所有进程
+ -au：显示较详细的资讯
+ -aux：显示所有包含其他使用者的行程 
+ --lines<行数>：每页显示的行数
+ --width<字符数>：每页显示的字符数
+  检查服务器上的main进程在不在 ps -ef|grep main
+ 8、磁盘常用
+
+ 48. df
+格式：df [op] [file]
+
+功能：检查linux服务器的文件系统的磁盘空间占用情况 /df,命令的英文全称即“Disk Free”
+说明：显示指定磁盘文件的可用空间。如果没有文件名被指定，则所有当前被挂载的文件系统的可用空间将被显示。默认情况下，磁盘空间将以 1KB 为单位进行显示
+
+op为命令选项，常用如下：
+
+    文件-a, --all 包含所有的具有 0 Blocks 的文件系统
+    文件--block-size={SIZE} 使用 {SIZE} 大小的 Blocks
+    文件-h, --human-readable 使用人类可读的格式(预设值是不加这个选项的...)
+    文件-H, --si 很像 -h, 但是用 1000 为单位而不是用 1024
+    文件-i, --inodes 列出 inode 资讯，不列出已使用 block
+    文件-k, --kilobytes 就像是 --block-size=1024
+    文件-l, --local 限制列出的文件结构
+    文件-m, --megabytes 就像 --block-size=1048576
+    文件--no-sync 取得资讯前不 sync (预设值)
+    文件-P, --portability 使用 POSIX 输出格式
+    文件--sync 在取得资讯前 sync
+    文件-t, --type=TYPE 限制列出文件系统的 TYPE
+    文件-T, --print-type 显示文件系统的形式
+    文件-x, --exclude-type=TYPE 限制列出文件系统不要显示 TYPE
+    文件-v (忽略)
+    文件--help 显示这个帮手并且离开
+    文件--version 输出版本资讯并且离开
+
+49. du
+格式：du [op][file]
+
+功能：显示目录或文件的大小
+说明：du会显示指定的目录或文件所占用的磁盘空间，file可以为文件，也可以为目录
+
+　　op为命令选项，常用如下：
+
+    -a或-all 显示目录中个别文件的大小。
+    -b或-bytes 显示目录或文件大小时，以byte为单位。
+    -c或--total 除了显示个别目录或文件的大小外，同时也显示所有目录或文件的总和。
+    -D或--dereference-args 显示指定符号连接的源文件大小。
+    -h或--human-readable 以K，M，G为单位，提高信息的可读性。
+    -H或--si 与-h参数相同，但是K，M，G是以1000为换算单位。
+    -k或--kilobytes 以1024 bytes为单位。
+    -l或--count-links 重复计算硬件连接的文件。
+    -L<符号连接>或--dereference<符号连接> 显示选项中所指定符号连接的源文件大小。
+    -m或--megabytes 以1MB为单位。
+    -s或--summarize 仅显示总计。
+    -S或--separate-dirs 显示个别目录的大小时，并不含其子目录的大小。
+    -x或--one-file-xystem 以一开始处理时的文件系统为准，若遇上其它不同的文件系统目录则略过。
+    -X<文件>或--exclude-from=<文件> 在<文件>指定目录或文件。
+    --exclude=<目录或文件> 略过指定的目录或文件。
+    --max-depth=<目录层数> 超过指定层数的目录后，予以忽略。
+    --help 显示帮助。
+    --version 显示版本信息。
+
+  50. free
+格式：free [op]
+
+功能：显示系统使用和空闲的内存情况，包括物理内存、交互区内存(swap)和内核缓冲区内存
+说明：共享内存将被忽略。
+
+　　op为命令选项，常用如下：
+
+-b：以Byte为单位显示内存使用情况。 
+-k：以KB为单位显示内存使用情况。 
+-m：以MB为单位显示内存使用情况。
+-g：以GB为单位显示内存使用情况。 
+-o：不显示缓冲区调节列。 
+-s<间隔秒数>：持续观察内存使用状况。 
+-t：显示内存总和列。
+

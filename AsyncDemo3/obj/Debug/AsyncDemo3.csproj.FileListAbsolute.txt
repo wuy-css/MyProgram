@@ -4,3 +4,9 @@ C:\Users\DELL\source\repos\测试\AsyncDemo3\bin\Debug\AsyncDemo3.pdb
 C:\Users\DELL\source\repos\测试\AsyncDemo3\obj\Debug\AsyncDemo3.csproj.CoreCompileInputs.cache
 C:\Users\DELL\source\repos\测试\AsyncDemo3\obj\Debug\AsyncDemo3.exe
 C:\Users\DELL\source\repos\测试\AsyncDemo3\obj\Debug\AsyncDemo3.pdb
+C:\Users\DELL\source\CESHI\MyProgram\AsyncDemo3\bin\Debug\AsyncDemo3.exe.config
+C:\Users\DELL\source\CESHI\MyProgram\AsyncDemo3\bin\Debug\AsyncDemo3.exe
+C:\Users\DELL\source\CESHI\MyProgram\AsyncDemo3\bin\Debug\AsyncDemo3.pdb
+C:\Users\DELL\source\CESHI\MyProgram\AsyncDemo3\obj\Debug\AsyncDemo3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\CESHI\MyProgram\AsyncDemo3\obj\Debug\AsyncDemo3.exe
+C:\Users\DELL\source\CESHI\MyProgram\AsyncDemo3\obj\Debug\AsyncDemo3.pdb

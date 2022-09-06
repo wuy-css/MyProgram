@@ -4,3 +4,9 @@ C:\Users\DELL\source\repos\测试\NestedDemo\bin\Debug\NestedDemo.pdb
 C:\Users\DELL\source\repos\测试\NestedDemo\obj\Debug\NestedDemo.csproj.CoreCompileInputs.cache
 C:\Users\DELL\source\repos\测试\NestedDemo\obj\Debug\NestedDemo.exe
 C:\Users\DELL\source\repos\测试\NestedDemo\obj\Debug\NestedDemo.pdb
+C:\Users\DELL\source\CESHI\MyProgram\NestedDemo\bin\Debug\NestedDemo.exe.config
+C:\Users\DELL\source\CESHI\MyProgram\NestedDemo\bin\Debug\NestedDemo.exe
+C:\Users\DELL\source\CESHI\MyProgram\NestedDemo\bin\Debug\NestedDemo.pdb
+C:\Users\DELL\source\CESHI\MyProgram\NestedDemo\obj\Debug\NestedDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\CESHI\MyProgram\NestedDemo\obj\Debug\NestedDemo.exe
+C:\Users\DELL\source\CESHI\MyProgram\NestedDemo\obj\Debug\NestedDemo.pdb
