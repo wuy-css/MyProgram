@@ -70,7 +70,6 @@ wget
 .tar.gz 和 .tgz
 　　解压：tar zxvf FileName.tar.gz
 　　压缩：tar zcvf FileName.tar.gz DirName
-
 4、文件操作
 
 #diff 是different，比较两个文件的不同之处
